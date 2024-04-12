@@ -12,6 +12,6 @@
 
 <div align="center">
 <h4>	🎉SNS </h4>
-<a href=""https://blog.naver.com/qorcodus_">
+<a href="https://blog.naver.com/qorcodus_">
 <img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=(https://blog.naver.com/qorcodus_)"/></a>
 </div>
