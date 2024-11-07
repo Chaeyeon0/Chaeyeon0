@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:BDEDFF,100:FCDFFF&section=header&height=180&text=Chaeyeon's%20Github&fontSize=50&fontColor=98AFC7)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:BDEDFF,100:FCDFFF&section=header&height=180&text=&fontSize=50&fontColor=98AFC7)
 
 <div align="center">
  <h4>:sparkles: 백엔드 공부 중인 백채연의 깃허브입니다</h4>
