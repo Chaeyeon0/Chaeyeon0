@@ -20,13 +20,16 @@
 
 <h3 align="left">🔥 My Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeon0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false" height="200" alt="Stats Graph" />
-  <img src="https://streak-stats.demolab.com?user=Chaeyeon0&locale=en&mode=daily&theme=solarized-light&hide_border=false&border_radius=5" height="200" alt="Streak Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeon0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false" height="150" alt="Stats Graph" />
+  <img src="https://streak-stats.demolab.com?user=Chaeyeon0&locale=en&mode=daily&theme=solarized-light&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
 </div>
 
-<h3 align="left">🎉 Connect with Me</h3>
-<div align="center">
+<h3 align="left">🎉SNS</h3>
+<div align="left">
  <a href="https://blog.naver.com/qorcodus_">
    <img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/qorcodus_"/>
+ </a>
+ <a href="https://www.instagram.com/_qorcodus/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/your_instagram_username/"/>
  </a>
 </div>
