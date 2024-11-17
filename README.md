@@ -1,14 +1,32 @@
-<div align="center">
- <h4>:sparkles: 백엔드 공부 중인 백채연의 깃허브입니다</h4>
+
+<h3 align="left">👩‍💻 About Me</h3>
+<p align="left">
+- 🔭 컴퓨터공학과 대학생.<br>
+- 📚 현재 Spring Boot, MySQL, Java, AWS를 공부하고 있어요 !<br>
+</p>
+
+<h3 align="left">🛠️ Platforms & Tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android logo" />
 </div>
 
+<h3 align="left">🔥 My Stats</h3>
 <div align="center">
- <h4>	📝Platforms & Languages </h4>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeon0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false" height="200" alt="Stats Graph" />
+  <img src="https://streak-stats.demolab.com?user=Chaeyeon0&locale=en&mode=daily&theme=solarized-light&hide_border=false&border_radius=5" height="200" alt="Streak Graph" />
 </div>
 
+<h3 align="left">🎉 Connect with Me</h3>
 <div align="center">
-<h4>🎉SNS</h4>
-<a href="https://blog.naver.com/qorcodus_">
-<img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=(https://blog.naver.com/qorcodus_)"/></a>
+ <a href="https://blog.naver.com/qorcodus_">
+   <img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/qorcodus_"/>
+ </a>
 </div>
