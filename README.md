@@ -2,8 +2,8 @@
 <hr>
 <p align="left">
 - 🔭 컴퓨터공학 전공입니다.<br>
-- 📚 백엔드 공부하고 있어요 :)<br>
-- 🌱 주로 Java, Spring, MySQL, AWS를 다룹니다.<br>
+- 📚 백엔드 공부하고 있어요<br>
+- 🌱 Java, Spring, MySQL, AWS를 다룹니다.<br>
 </p>
 
 <h3 align="left">🛠️ Platforms & Languages</h3>
