@@ -23,18 +23,25 @@
 <h3 align="left">🔥 My Stats</h3>
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeon0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false" height="150" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeon0&show_icons=true&theme=solarized-light" height="150" />
 
-<h3 align="left">🎉 SNS</h3>
+
+  <h3 align="left">🚀 Projects</h3>
 <hr>
-<div align="left">
- <a href="https://blog.naver.com/https://blog.naver.com/qorcodus_">
-   <img src="https://img.shields.io/badge/My Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/your_blog_link"/>
- </a>
- <a href="https://www.instagram.com/_qorcodus/">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/your_instagram_username/"/>
- </a>
-</div>
+<ul align="left">
+  <li>
+    <a href="https://github.com/pknu-wap/GreenDay">
+      <b>🌿 GreenDay</b>
+    </a>
+    - 환경 일기 작성 웹 애플리케이션
+  </li>
+  <li>
+    <a href="https://github.com/pknu-wap/Dokdo_Public">
+      <b>🏝️ Dokdo Public</b>
+    </a>
+    - 역사 의식을 키우고 재미를 더하는 방탈출 웹 게임
+  </li>
+</ul>
 
 <h3 align="left">📈 Contribution Graph</h3>
 <hr>
