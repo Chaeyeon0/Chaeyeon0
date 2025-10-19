@@ -24,6 +24,9 @@
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeon0&show_icons=true&theme=solarized-light" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeon0&layout=compact&theme=solarized-light" height="150" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaeyeon0&theme=solarized-light" height="130" />
 
 
   <h3 align="left">🚀 Projects</h3>
