@@ -1,9 +1,9 @@
 <h3 align="left">👩‍💻 About Me</h3>
 <hr>
 <p align="left">
-- 🔭 컴퓨터공학 전공입니다.<br>
-- 📚 백엔드 공부하고 있어요<br>
-- 🌱 Java, Spring, MySQL, AWS를 다룹니다.<br>
+- 🔭 컴퓨터공학 전공<br>
+- 📚 백엔드 공부 중<br>
+- 🌱 Java, Spring, MySQL, MariaDB AWS를 다룹니다.<br>
 </p>
 
 <h3 align="left">🛠️ Platforms & Languages</h3>
@@ -44,7 +44,17 @@
     </a>
     - 역사 의식을 키우고 재미를 더하는 방탈출 웹 게임
   </li>
+  <li>
+    <a href="https://github.com/Capstone-AKA/AKA__APP">
+      <b>🛒 ACA </b>
+    </a>
+    - YOLO 기반 무인 결제 시스템 (캡스톤 디자인)
+  </li>
 </ul>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Chaeyeon0?pet-id=1" width="1000" height="120"/>
+</a>
 
 <h3 align="left">📈 Contribution Graph</h3>
 <hr>
